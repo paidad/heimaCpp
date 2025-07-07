@@ -130,6 +130,7 @@
     <ClCompile Include="classStudy.cpp" />
     <ClCompile Include="virtual虚函数表.cpp" />
     <ClCompile Include="动态多态.cpp" />
+    <ClCompile Include="文件的读写操作.cpp" />
     <ClCompile Include="电脑的组成.cpp" />
     <ClCompile Include="继承.cpp" />
   </ItemGroup>

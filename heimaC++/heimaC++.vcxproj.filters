@@ -30,5 +30,8 @@
     <ClCompile Include="电脑的组成.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="文件的读写操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
