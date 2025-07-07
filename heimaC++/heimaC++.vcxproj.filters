@@ -27,5 +27,8 @@
     <ClCompile Include="virtual虚函数表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
