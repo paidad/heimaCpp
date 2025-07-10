@@ -14,6 +14,7 @@
 //};
 //int main() {
 //
+// 
 //	Cat cat;
 //	cout << "¼Ì³Ğ"<<cat.a<<endl<<cat.b;
 //}
